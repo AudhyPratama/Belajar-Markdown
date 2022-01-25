@@ -33,6 +33,6 @@ Ini paragraf kedua<p>
 
   
 # **TEXT STYLING**
-  **Ini teks dengan bold**
-  <strong> Ini juga teks dengan bold<strong>
+  **Ini teks dengan bold**  
+    <strong> Ini juga teks dengan bold<strong>
   
