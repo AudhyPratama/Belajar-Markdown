@@ -23,3 +23,8 @@
 <h6> Ini juga Heading 6<h6>
 
 # **PARAGRAPH**  
+Ini paragraf pertama
+Ini paragraf kedua
+
+<p>Ini paragraf pertama<br>
+Ini paragraf kedua<p>
