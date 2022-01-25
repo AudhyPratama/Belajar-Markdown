@@ -46,4 +46,7 @@ Ini paragraf kedua</p>
 # Blockquotes  
   > Ini contoh blockquotes
 
+  > Ini paragraf pertama
+  >
+  > Ini paragraf kedua
 
