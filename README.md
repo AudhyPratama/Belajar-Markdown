@@ -33,13 +33,13 @@ Ini paragraf kedua</p>
 
   
 # **TEXT STYLING**
-  ## **Bold**
+  ## **1. Bold**
   **Ini teks dengan bold** 
    <strong> Ini juga teks dengan bold</strong>
-  ## *Italic*
+  ## *2. Italic*
    *Ini teks dengan italic*
     <em>Ini juga teks dengan italic</em>
-  ## ***Bold and Italic***
+  ## ***3. Bold and Italic***
    ***Ini teks dengan bold dan italic***
     <strong><em>Ini juga teks dengan bold dan italic</em></strong>
     
