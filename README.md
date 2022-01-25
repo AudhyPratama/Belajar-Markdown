@@ -1,3 +1,5 @@
+# **Heading**
+
 # Ini Heading 1
 
 <h1> Ini juga Heading 1<h1>
@@ -28,3 +30,9 @@ Ini paragraf pertama
 
 <p>Ini paragraf pertama<br>
 Ini paragraf kedua<p>
+
+  
+# **TEXT STYLING**
+  **Ini teks dengan bold**
+  <strong> Ini juga teks dengan bold<strong>
+  
