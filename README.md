@@ -62,40 +62,59 @@ Ini paragraf kedua</p>
   > - World
   >> lorem ipsum dolor sit amet viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt dui ut
 
-# Lists
+# Lists  
 
- ## **Contoh List 1**  
- 1. First item
- 2. Second item
- 3. Third item
- 4. Fourth item
+ ## **Ordered List**
 
- ## **Contoh List 2**  
- <ol>  
-   <li>First item</li>  
-   <li>Second item</li>  
-   <li>Third item</li>  
-   <li>Fourth item</li>  
- </ol>  
+  ### **Contoh List 1**  
+  1. First item
+  2. Second item
+  3. Third item
+  4. Fourth item
+
+  ### **Contoh List 2 (HTML)**  
+  <ol>  
+    <li>First item</li>  
+    <li>Second item</li>  
+    <li>Third item</li>  
+    <li>Fourth item</li>  
+  </ol>  
   
- ## **Contoh List 3 (List Bercabang)**
- 1. First item  
- 2. Second item  
- 3. Third item  
-     1. Indented item  
-     2. Indented item  
- 4. Fourth item  
+  ### **Contoh List 3 (List Bercabang)**
+  1. First item  
+  2. Second item  
+  3. Third item  
+      1. Indented item  
+      2. Indented item  
+  4. Fourth item  
 
- ## **Contoh List 4 (List Bercabang)**
- <ol>
-   <li>First item</li>
-   <li>Second item</li>
-   <li>Third item
-     <ol>
-       <li>Indented item</li>
-       <li>Indented item</li>
-     </ol>
-   </li>
-   <li>Fourth item</li>
- </ol>
+  ### **Contoh List 4 (List Bercabang HTML)**
+  <ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item
+      <ol>
+        <li>Indented item</li>
+        <li>Indented item</li>
+      </ol>
+    </li>
+    <li>Fourth item</li>
+  </ol>
+
+ ## **Unordered List**
+
+  ### **Contoh List 1**  
+  - First item
+  - Second item
+  - Third item
+  - Fourth item
+  
+  ### **Contoh List 2 (HTML)**  
+  <ul>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+    <li>Fourth item</li>
+  </ul>
+
 
