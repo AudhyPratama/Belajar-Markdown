@@ -38,5 +38,12 @@ Ini paragraf kedua</p>
    <strong> Ini juga teks dengan bold</strong>
   ## *Italic*
    *Ini teks dengan italic*
-    <em>Ini teks dengan italic</em>
-      
+    <em>Ini juga teks dengan italic</em>
+  ## ***Bold and Italic***
+   ***Ini teks dengan bold dan italic***
+    <strong><em>Ini juga teks dengan bold dan italic</em></strong>
+    
+# Blockquotes  
+  > Ini contoh blockquotes
+
+
