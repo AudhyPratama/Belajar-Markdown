@@ -67,61 +67,61 @@ Ini paragraf kedua</p>
  ## **Ordered List**
 
   ### **Contoh List 1**  
-  1. First item
-  2. Second item
-  3. Third item
-  4. Fourth item
+  1. Item pertama
+  2. Item kedua
+  3. Item ketiga
+  4. Item keempat
 
   ### **Contoh List 2 (HTML)**  
   <ol>  
-    <li>First item</li>  
-    <li>Second item</li>  
-    <li>Third item</li>  
-    <li>Fourth item</li>  
+    <li>Item pertama</li>  
+    <li>Item kedua</li>  
+    <li>Item ketiga</li>  
+    <li>Item keempat</li>  
   </ol>  
   
   ### **Contoh List 3 (List Bercabang)**
-  1. First item  
-  2. Second item  
-  3. Third item  
-      1. Indented item  
-      2. Indented item  
-  4. Fourth item  
+  1. Item pertama  
+  2. Item kedua 
+  3. Item ketiga  
+      1. Deskripsi item pertama  
+      2. Deskripsi item kedua
+  4. Item keempat  
 
   ### **Contoh List 4 (List Bercabang HTML)**
   <ol>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item
+    <li>Item pertama</li>
+    <li>Item kedua</li>
+    <li>Item ketiga
       <ol>
-        <li>Indented item</li>
-        <li>Indented item</li>
+        <li>Deskripsi item pertama</li>
+        <li>Deskripsi item kedua</li>
       </ol>
     </li>
-    <li>Fourth item</li>
+    <li>Item keempat</li>
   </ol>
 
  ## **Unordered List**
 
   ### **Contoh List 1**  
-  - First item
-  - Second item
-  - Third item
-  - Fourth item
+  - Item pertama
+  - Item kedua
+  - Item ketiga
+  - Item keempat
   
   ### **Contoh List 2 (HTML)**  
   <ul>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
-    <li>Fourth item</li>
+    <li>Item pertama</li>
+    <li>Item kedua</li>
+    <li>Item ketiga</li>
+    <li>Item keempat</li>
   </ul>
   
   ### **Contoh List 3 (List Bercabang)**
-  - First item
-  - Second item
-  - Third item
-      - Indented item
-      - Indented item
-  - Fourth item
+  - Item pertama
+  - Item kedua
+  - Item ketiga
+      - Deskripsi item pertama
+      - Deskripsi item kedua
+  - Item keempat
 
