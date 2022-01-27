@@ -128,3 +128,10 @@ Ini paragraf kedua</p>
  ## **Deskripsi dalam list**
  
   ### **Paragraf**
+  
+  * Item pertama.
+  * Item kedua.
+
+    Deskripsi dari item.
+
+  * Item ketiga.
