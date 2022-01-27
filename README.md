@@ -162,7 +162,7 @@ Ini paragraf kedua</p>
   1. Open the file containing the Linux mascot.
   2. Marvel at its beauty.
 
-   ![Crying Baal](/Downloads/crying-baal-2.png)
+   ![Crying Baal](/Gambar/crying-baal-2.png)
 
   3. Close the file.
   
