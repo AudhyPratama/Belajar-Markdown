@@ -1,4 +1,4 @@
-# **Heading**
+# **1. Heading**
 
 # Ini Heading 1
 
@@ -24,7 +24,7 @@
 
 <h6> Ini juga Heading 6</h6>
 
-# **PARAGRAPH**  
+# **2. PARAGRAPH**  
 Ini paragraf pertama  
   Ini paragraf kedua
 
@@ -32,18 +32,18 @@ Ini paragraf pertama
 Ini paragraf kedua</p>
 
   
-# **TEXT STYLING**
-  ## 1. **Bold**
+# **3. TEXT STYLING**
+  ## A. **Bold**
   **Ini teks dengan bold** 
    <strong> Ini juga teks dengan bold</strong>
-  ## 2. *Italic*
+  ## B. *Italic*
    *Ini teks dengan italic*
     <em>Ini juga teks dengan italic</em>
-  ## 3. ***Bold and Italic***
+  ## C. ***Bold and Italic***
    ***Ini teks dengan bold dan italic***
     <strong><em>Ini juga teks dengan bold dan italic</em></strong>
     
-# Blockquotes  
+# **4. Blockquotes**  
   > Ini contoh blockquotes
 
   > Ini paragraf pertama
@@ -62,9 +62,9 @@ Ini paragraf kedua</p>
   > - World
   >> lorem ipsum dolor sit amet viverra aliquet eget sit amet tellus cras adipiscing enim eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt dui ut
 
-# Lists  
+# **5. Lists**  
 
- ## **Ordered List**
+ ## **A. Ordered List**
 
   ### **Contoh List 1**  
   1. Item pertama
@@ -101,7 +101,7 @@ Ini paragraf kedua</p>
     <li>Item keempat</li>
   </ol>
 
- ## **Unordered List**
+ ## **B. Unordered List**
 
   ### **Contoh List 1**  
   - Item pertama
