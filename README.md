@@ -150,11 +150,13 @@ Ini paragraf kedua</p>
   1. Buka file pada browser anda.
   2. Cari bagian kode pada baris ke-1 seperti berikut:    
 
+
         <html>    
           <head>    
             <title>Hello World</title>     
           </head>     
 
+  
   3. Ubah judul sesuai nama website yang kamu inginkan!.
   
   
