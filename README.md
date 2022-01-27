@@ -66,13 +66,13 @@ Ini paragraf kedua</p>
 
  ## **A. Ordered List**
 
-  ### **Contoh List 1**  
+  ### **- Contoh List 1**  
   1. Item pertama
   2. Item kedua
   3. Item ketiga
   4. Item keempat
 
-  ### **Contoh List 2 (HTML)**  
+  ### **- Contoh List 2 (HTML)**  
   <ol>  
     <li>Item pertama</li>  
     <li>Item kedua</li>  
@@ -80,7 +80,7 @@ Ini paragraf kedua</p>
     <li>Item keempat</li>  
   </ol>  
   
-  ### **Contoh List 3 (List Bercabang)**
+  ### **- Contoh List 3 (List Bercabang)**
   1. Item pertama  
   2. Item kedua 
   3. Item ketiga  
@@ -88,7 +88,7 @@ Ini paragraf kedua</p>
       2. Deskripsi item kedua
   4. Item keempat  
 
-  ### **Contoh List 4 (List Bercabang HTML)**
+  ### **- Contoh List 4 (List Bercabang HTML)**
   <ol>
     <li>Item pertama</li>
     <li>Item kedua</li>
@@ -103,13 +103,13 @@ Ini paragraf kedua</p>
 
  ## **B. Unordered List**
 
-  ### **Contoh List 1**  
+  ### **- Contoh List 1**  
   - Item pertama
   - Item kedua
   - Item ketiga
   - Item keempat
   
-  ### **Contoh List 2 (HTML)**  
+  ### **- Contoh List 2 (HTML)**  
   <ul>
     <li>Item pertama</li>
     <li>Item kedua</li>
@@ -117,7 +117,7 @@ Ini paragraf kedua</p>
     <li>Item keempat</li>
   </ul>
   
-  ### **Contoh List 3 (List Bercabang)**
+  ### **- Contoh List 3 (List Bercabang)**
   - Item pertama
   - Item kedua
   - Item ketiga
@@ -125,9 +125,9 @@ Ini paragraf kedua</p>
       - Deskripsi item kedua
   - Item keempat
 
- ## **Deskripsi dalam list**
+ ## **C. Deskripsi dalam list**
  
-  ### **Paragraf**
+  ### **- Paragraf**
   
   * Item pertama.
   * Item kedua.
@@ -136,7 +136,7 @@ Ini paragraf kedua</p>
 
   * Item ketiga.
   
-  ### **Blockquotes**
+  ### **- Blockquotes**
   
   * Item pertama.
   * Item kedua.
