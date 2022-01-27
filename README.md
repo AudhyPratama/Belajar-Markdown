@@ -132,6 +132,20 @@ Ini paragraf kedua</p>
   * Item pertama.
   * Item kedua.
 
-    Deskripsi dari item.
+    Deskripsi dari item menggunakan paragraf.
 
   * Item ketiga.
+  
+  ### **Paragraf**
+  
+  * This is the first list item.
+  * Here's the second list item.
+
+    > Deskripsi dari item menggunakan blockquotes.
+
+  * And here's the third list item.
+  
+  
+  
+  
+  
