@@ -157,6 +157,12 @@ Ini paragraf kedua</p>
   
   3. Ubah judul sesuai nama website yang kamu inginkan!.
   
+  ### **- Images**
   
-  
+  1. Open the file containing the Linux mascot.
+  2. Marvel at its beauty.
+
+   ![Crying Baal](/Downloads/crying-baal-2.png)
+
+  3. Close the file.
   
