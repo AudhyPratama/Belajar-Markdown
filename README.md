@@ -136,14 +136,14 @@ Ini paragraf kedua</p>
 
   * Item ketiga.
   
-  ### **Paragraf**
+  ### **Blockquotes**
   
-  * This is the first list item.
-  * Here's the second list item.
+  * Item pertama.
+  * Item kedua.
 
     > Deskripsi dari item menggunakan blockquotes.
 
-  * And here's the third list item.
+  * Item ketiga.
   
   
   
