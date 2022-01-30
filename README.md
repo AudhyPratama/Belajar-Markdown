@@ -166,3 +166,20 @@ Ini paragraf kedua</p>
 
   3. Close the file.
   
+# **6. Code**
+
+ ## **A. Normal**
+  
+  ### **- Markdown**
+  
+   Contoh penggunaan sintaks kode block: `Hello World!`. 
+  
+  ### **- HTML**
+  
+   At the command prompt, type <code>nano</code>.
+  
+
+ 
+ 
+ 
+ 
