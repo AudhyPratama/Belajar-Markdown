@@ -176,9 +176,11 @@ Ini paragraf kedua</p>
   
   ### **- HTML**
   
-   At the command prompt, type <code>nano</code>.
+   Contoh penggunaan sintaks kode block: <code>Hello World</code>.
   
-
+ ## **B. Escaping Backticks**
+ 
+  ``Kalimat `Hello World` adalah kalimat awal pada pemrograman.``
  
  
  
