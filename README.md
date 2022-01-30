@@ -186,6 +186,13 @@ Ini paragraf kedua</p>
  
   ### **- HTML**
  
-   <code>Use `code` in your Markdown file.</code>
+   <code>Kalimat `Hello World` adalah kalimat awal pada pemrograman.</code>
  
- 
+# **6. Code Blocks**
+    
+    <html>
+      <head>
+      </head>
+    </html>
+
+# **7. Code Blocks**
