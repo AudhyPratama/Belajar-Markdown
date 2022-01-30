@@ -188,11 +188,17 @@ Ini paragraf kedua</p>
  
    <code>Kalimat `Hello World` adalah kalimat awal pada pemrograman.</code>
  
-# **6. Code Blocks**
+# **7. Code Blocks**
     
     <html>
       <head>
       </head>
     </html>
 
-# **7. Code Blocks**
+# **8. Horizontal Rules**
+
+ Kalimat 1
+
+ ---
+
+ Kalimat 2
