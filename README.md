@@ -180,8 +180,12 @@ Ini paragraf kedua</p>
   
  ## **B. Escaping Backticks**
  
-  ``Kalimat `Hello World` adalah kalimat awal pada pemrograman.``
+  ### **- Markdown**
+  
+   ``Kalimat `Hello World` adalah kalimat awal pada pemrograman.``
  
+  ### **- HTML**
  
+   <code>Use `code` in your Markdown file.</code>
  
  
