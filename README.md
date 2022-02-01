@@ -219,3 +219,11 @@ Ini paragraf kedua</p>
   Ini link **[Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**.  
   This is the *[Link ](https://www.markdownguide.org)*.  
   Coba cek line [`bagian1`](#bagian1).  
+ 
+ ## **- Formatting the Second Part of the Link**
+ 
+  if you have a trouble click the [support contact](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Rickroll")
+
+ ## **- Images**
+ 
+ ![This is a picture!](/Belajar-README/Gambar/crying-baal-2.pbg "Crying Baal")
