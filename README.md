@@ -209,5 +209,13 @@ Ini paragraf kedua</p>
 
 # **10. Links**
 
-<https://www.youtube.com/watch?v=dQw4w9WgXcQ>
-<cotohemail@example.com>
+ ## **- URL and Email Address**
+  
+  <https://www.youtube.com/watch?v=dQw4w9WgXcQ>
+  <cotohemail@example.com>
+
+ ## **- Formatting Links**
+ 
+  Ini link **[Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**.
+  This is the *[Link ](https://www.markdownguide.org)*.
+  Coba cek line [`bagian 1`](#bagian1).
